@@ -12,6 +12,7 @@ Collection of Big Data Resources for aspiring Big Data developers
 			* Some Manual [http://manuals.bioinformatics.ucr.edu/home/programming-in-r](http://)
 			* R for Beginners [https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf](http://)
 			* R in Action [http://www.amazon.com/Action-Data-Analysis-Graphics/dp/1617291382](http://)
+			* R Tutorial [http://www.statmethods.net/about/books.html](http://)
 		4. Statistics
 			* Probability and Statistics [https://www.khanacademy.org/math/probability](http://)
 		5. Decision Trees
