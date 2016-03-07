@@ -38,4 +38,8 @@ Collection of Big Data Resources for aspiring Big Data developers
 3. NoSQL Databases 
 	1. Cassandra [http://cassandra.apache.org/](http://)
 	2. MongoDB [https://www.mongodb.com/](http://)
+
+4. BI and Visualization Products to Learn
+	1. Pentaho [http://www.pentaho.com/](http://)
+	2. Tableau [http://www.tableau.com/](http://)
 			
