@@ -37,6 +37,9 @@ Collection of Big Data Resources for aspiring Big Data developers
 		* HBase [https://hbase.apache.org/](https://hbase.apache.org/)
 		* Oozie [https://oozie.apache.org/](https://oozie.apache.org/)
 		* Ambari [https://ambari.apache.org/](https://ambari.apache.org/)
+		* Flink [https://flink.apache.org/](https://flink.apache.org/)
+		* Storm [http://storm.apache.org/](http://storm.apache.org/)
+		* Kafka [http://kafka.apache.org/](http://kafka.apache.org/)
 		
 3. NoSQL Databases 
 	1. Cassandra [http://cassandra.apache.org/](http://cassandra.apache.org/)  
