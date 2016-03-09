@@ -20,6 +20,9 @@ Collection of Big Data Resources for aspiring Big Data developers
 		6. Python Tools
 			* Pandas [http://pandas.pydata.org/](http://pandas.pydata.org/)
 			* NumPy [http://www.numpy.org/](http://www.numpy.org/)
+		7. Text and Web Mining
+			* [https://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf](https://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf)
+			* [https://cran.r-project.org/web/packages/tm.plugin.webmining/vignettes/ShortIntro.pdf](https://cran.r-project.org/web/packages/tm.plugin.webmining/vignettes/ShortIntro.pdf)
 		
 			
 2. Big Data Technologies
