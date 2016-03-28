@@ -50,4 +50,5 @@ Collection of Big Data Resources for aspiring Big Data developers
 	* Pentaho [http://www.pentaho.com/](http://www.pentaho.com/)
 	* Tableau [http://www.tableau.com/](http://)
 	* Jaspersoft BI [http://www.jaspersoft.com/](http://www.jaspersoft.com/)
-			
+5. Other Resources
+	* [https://hadoop.apache.org/docs/r2.7.2/hadoop-project-dist/hadoop-hdfs/Federation.html](https://hadoop.apache.org/docs/r2.7.2/hadoop-project-dist/hadoop-hdfs/Federation.html)
