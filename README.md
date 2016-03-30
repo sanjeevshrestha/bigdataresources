@@ -52,3 +52,4 @@ Collection of Big Data Resources for aspiring Big Data developers
 	* Jaspersoft BI [http://www.jaspersoft.com/](http://www.jaspersoft.com/)
 5. Other Resources
 	* [https://hadoop.apache.org/docs/r2.7.2/hadoop-project-dist/hadoop-hdfs/Federation.html](https://hadoop.apache.org/docs/r2.7.2/hadoop-project-dist/hadoop-hdfs/Federation.html)
+	* [http://ercoppa.github.io/HadoopInternals/](http://ercoppa.github.io/HadoopInternals/)
